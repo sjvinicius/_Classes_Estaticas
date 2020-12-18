@@ -1,0 +1,13 @@
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\bin\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.exe
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\bin\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.deps.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\bin\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.runtimeconfig.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\bin\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.runtimeconfig.dev.json
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\bin\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\bin\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\obj\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.csprojAssemblyReference.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\obj\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.AssemblyInfoInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\obj\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.AssemblyInfo.cs
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\obj\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.csproj.CoreCompileInputs.cache
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\obj\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.dll
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\obj\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.pdb
+C:\Users\vinyl\OneDrive\Documentos\Homolog\_Classes_Atributos_Metodos_Static\obj\Debug\netcoreapp3.1\_Classes_Atributos_Metodos_Static.genruntimeconfig.cache
